@@ -2,7 +2,7 @@ Olá, sou José Henrique!!
 <div align="center">
   <a href="https://github.com/josehpg98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josehpg98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehpg98&layout=demo&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehpg98&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <br>
 <div> 
