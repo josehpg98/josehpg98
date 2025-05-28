@@ -47,32 +47,26 @@ Minhas estatísticas no GitHub:
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 </div>
 
-
 <div align="left"> 
   
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
 
+</div>   
 
 
 
-</div>  
-
-  
-
-
+.
+.
 
 
 
 🔗 Me encontre por aqui:  
 
-  
-
-
 
 <div align="left">   
 
-
 <a href="mailto:josehpaludo.work@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="http://lattes.cnpq.br/6678060562438946" target="_blank"> <img src="https://img.shields.io/badge/Lattes-0072C6?style=for-the-badge&logo=readcv&logoColor=white" alt="Lattes"/></a> <a href="https://t.me/josehpg98" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a> 
+
 </div>
 
 
