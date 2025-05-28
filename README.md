@@ -55,11 +55,13 @@ Minhas estatísticas no GitHub:
 
 
 
-</div>
+</div>  
 
 
 
-🔗 Me encontre por aqui:
+
+🔗 Me encontre por aqui:  
+
 
 
 
