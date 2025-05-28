@@ -1,6 +1,6 @@
 🧑‍💻 Olá, eu sou o José Henrique!
 
-Seja bem-vindo(a) ao meu perfil! 👋✨
+Seja bem-vindo(a) ao meu perfil!✨
 
 🎓 Formado em Ciência da Computação pelo IFSUL – Campus Passo Fundo.
 
@@ -22,8 +22,8 @@ Minhas estatísticas no GitHub:
 🛠️ Tecnologias e Ferramentas que uso no momento:
 
 
-
 <div align="left"> 
+  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
 </div>
 
@@ -48,12 +48,11 @@ Minhas estatísticas no GitHub:
 </div>
 
 
-
 🔗 Me encontre por aqui:
 
 
-
 <div align="left"> 
+  
 <a href="mailto:josehpaludo.work@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="http://lattes.cnpq.br/6678060562438946" target="_blank"> <img src="https://img.shields.io/badge/Lattes-0072C6?style=for-the-badge&logo=readcv&logoColor=white" alt="Lattes"/></a> <a href="https://t.me/josehpg98" target="_blank"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a> 
 </div>
 
