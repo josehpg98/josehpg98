@@ -7,6 +7,7 @@ Olá, sou José Henrique, bem vindo ao meu perfil! 👇
  <br>
 <div> 
     <a href = "mailto:josehpaludo.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="http://lattes.cnpq.br/6678060562438946"><img src=" " target="_blank"> </a>
 </div>
 
   
