@@ -1,4 +1,5 @@
 🧑‍💻 Olá, eu sou o José Henrique!
+
 Seja bem-vindo(a) ao meu perfil! 👋✨
 
 🎓 Formado em Ciência da Computação pelo IFSUL – Campus Passo Fundo.
