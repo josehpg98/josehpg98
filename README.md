@@ -22,6 +22,7 @@ Minhas estatísticas no GitHub:
 🛠️ Tecnologias e Ferramentas que uso no momento:
 
 
+
 <div align="left"> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
 </div>
@@ -49,6 +50,7 @@ Minhas estatísticas no GitHub:
 
 
 🔗 Me encontre por aqui:
+
 
 
 <div align="left"> 
